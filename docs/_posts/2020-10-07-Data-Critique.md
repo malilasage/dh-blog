@@ -25,8 +25,8 @@ In conclusion there are many questions to be asked about the data, and the legit
 <br>
 **Citations:**
 
- “U.S. Probate Records Class Handout.” FamilySearch Wiki. The Church of Jesus Christ of Latter Day Saints, December 22, 2015. https://www.familysearch.org/wiki/en/U.S._Probate_Records_Class_Handout.
+ “U.S. Probate Records Class Handout.” FamilySearch Wiki. The Church of Jesus Christ of Latter Day Saints, December 22, 2015. [www.familysearch.org/wiki/en/U.S._Probate_Records_Class_Handout](https://www.familysearch.org/wiki/en/U.S._Probate_Records_Class_Handout).
 
-Wendy E Lucas, 4505624, and Noel D Campbell. “York County Probate Records 1700-1800.” ScholarlyCommons, November 1, 2016. https://repository.upenn.edu/mead/26/.
+Wendy E Lucas, 4505624, and Noel D Campbell. “York County Probate Records 1700-1800.” ScholarlyCommons, November 1, 2016. [repository.upenn.edu/mead/26/](https://repository.upenn.edu/mead/26/).
 
-“About the York County Estate Inventories.” York County Estate Inventories \| The Colonial Williamsburg Official History & Citizenship Site. Accessed October 6, 2020. https://research.colonialwilliamsburg.org/DigitalLibrary/inventories/.
+“About the York County Estate Inventories.” York County Estate Inventories \| The Colonial Williamsburg Official History & Citizenship Site. Accessed October 6, 2020. [research.colonialwilliamsburg.org/DigitalLibrary/inventories/](https://research.colonialwilliamsburg.org/DigitalLibrary/inventories/).
