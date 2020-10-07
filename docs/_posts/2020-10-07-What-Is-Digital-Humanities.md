@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Critique"
-date:   2020-10-07 13:00:00 -0800
+title:  "What Is Digital Humanities?"
+date:   2020-10-06 13:00:00 -0800
 ---
 
 #add post below and delete this line
