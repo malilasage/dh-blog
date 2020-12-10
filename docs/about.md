@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-*stay tuned...*
+See our final project site at [https://malilasage.github.io/york-county/](https://malilasage.github.io/york-county/about/)
